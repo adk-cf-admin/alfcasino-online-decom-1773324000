@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://alfcasino-online-de.com/
+Sitemap: https://alfcasino-online-de.com/sitemap.xml

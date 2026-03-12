@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#181436",
+            "lang-select-color": "#222829",
+            "bg-light": "#181436",
+            "welcome-bonus-bg": "#181436",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#181344",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#90DAFF",
+            "text-head": "#181436",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#9DF46F",
+            "yellow": "#90DAFF",
+            "yellow-button": "#9DF46F",
+            "button-text": "#181436",
+            "main-button-text": "#181436",
+            "border-color": "#90DAFF",
+            "casino-cards": "#181436",
+            "bonus-border-head": "#181436",
+            "bonus-border": "#90DAFF",
+            "providers-back": "#181436",
+            "faq-label": "#181436",
+            "bg-footer": "#181436",
+            "copyright": "#e7e7d5",
+            "starColor": "#90DAFF",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4362"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4370",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "AlfCasino Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4368",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "AlfCasino"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "AlfCasino",
+                    "title": "AlfCasino | Offizielle Casino-Website mit Lizenz, schnellen Auszahlungen und 24\/7 Support",
+                    "description": "Spielen Sie bei AlfCasino: Über 3.000 Spiele, Willkommensbonus bis 500€, Cashback bis 25%, sofortige Einzahlungen und professioneller deutschsprachiger Support.",
+                    "canonical": "alfcasino-online-de.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4365",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "alfcasino-online-de.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4366"
+                },
+                "hero": {
+                    "title": "AlfCasino — Zuverlässige Unterhaltungsplattform mit Boni bis zu 500€",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4367",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4371",
+                    "mobileImageSizeModifier": -8,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Erhalten",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Große Auswahl lizenzierter Spiele",
+                        "Schnelle Auszahlungen in Euro-Währung",
+                        "Professioneller Support rund um die Uhr",
+                        "Zuverlässiger Schutz persönlicher Daten",
+                        "Praktische mobile Plattform-Version",
+                        "Transparente Bonusprogramm-Bedingungen",
+                        "Vielfältige sichere Zahlungsmethoden"
+                    ],
+                    "advantagesAfterText": "Unser Casino wurde für komfortables und sicheres Spielen entwickelt, wo jeder Nutzer Unterhaltung nach seinem Geschmack findet. Wir legen besonderen Wert auf Servicequalität und die schnelle Lösung aller Fragen.\n",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "AlFCasino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4372",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "AlFCasino App",
+                    "mobileGooglePlayImageTitle": "AlFCasino App",
+                    "mobileIosImageTitle": "AlFCasino App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das AlFCasino",
+                        "description1": "Wir überzeugen durch sofortige Transaktionsbearbeitung. Unsere Plattform bietet exklusive Turniere mit hohen Preisgeldern.\n",
+                        "items": [
+                            "Willkommenspaket bis zu 500€",
+                            "Wöchentlicher Cashback bis 25%",
+                            "Maximale Gewinne nicht begrenzt"
+                        ],
+                        "description2": "Unser Casino ist eine moderne Unterhaltungsplattform, auf der die besten Spiele führender weltweiter Anbieter versammelt sind. Wir aktualisieren unsere Bibliothek ständig und fügen neue Slots, Tischspiele und Live-Unterhaltungen hinzu. Bei AlfCasino finden Sie nicht nur Glücksspiele, sondern auch spannende Turniere mit echten Preisen, die regelmäßig stattfinden. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4373",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Unser Bonusprogramm wurde unter Berücksichtigung der Wünsche verschiedener Spielerkategorien entwickelt: von Neulingen bis zu erfahrenen Teilnehmern. Das Loyalty-Programm umfasst mehrere Stufen, von denen jede neue Privilegien und persönliche Angebote eröffnet. Wir organisieren saisonale Veranstaltungen und thematische Aktionen zu Feiertagen und wichtigen Ereignissen. Spezielle Unterhaltungen wie Crash-Games und virtueller Sport ergänzen das klassische Sortiment. Unser Team arbeitet an der Verbesserung des Nutzererlebnisses und implementiert innovative Funktionen sowie eine benutzerfreundliche Oberfläche. Sie können an exklusiven Verlosungen teilnehmen, persönliche Boni erhalten und das Spielen auf allen Geräten genießen. Wir schätzen jeden Spieler und bemühen uns, eine Atmosphäre des Vertrauens und Komforts zu schaffen. Regelmäßige Content-Updates und technische Verbesserungen machen unser Casino zu einem der dynamischsten am Markt. Werden Sie Teil unserer Community und entdecken Sie täglich neue Unterhaltungsmöglichkeiten.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "AlFCasino: Ihr Komfort — Regeln, Sicherheit, Support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Zugangsregeln und Bedingungen<\/h3>\n<p>Der Zugang zu unserem Casino steht nur volljährigen Nutzern ab 21 Jahren offen. Wir befolgen strikt die Prinzipien des verantwortungsvollen Spielens und bieten Tools zur Kontrolle der Spielaktivität. Vor Spielbeginn ist eine Identitätsverifizierung erforderlich, um die Kontosicherheit zu gewährleisten. Das Erstellen mehrerer Konten, die Nutzung von Drittanbieter-Software und die Weitergabe von Daten an Dritte sind untersagt. Wir behalten uns das Recht vor, Konten bei Verdacht auf Regelverstöße zu sperren. Verantwortungsvolles Spielen hat Priorität: Sie können Limits für Einzahlungen, Verluste und Sitzungszeiten festlegen. Bei Fragen zu den Regeln steht unser Support-Team gerne für Erläuterungen zur Verfügung. Wir empfehlen, sich regelmäßig mit Aktualisierungen der Plattform-Nutzungsbedingungen vertraut zu machen.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Altersbeschränkungen<\/h4>\n<ul><li>• Zugang nur für Spieler über 21 Jahre<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verifizierung<\/h4>\n<ul><li>• Obligatorische Identitätsbestätigung für Auszahlungen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Kontosicherheit<\/h4>\n<ul><li>• Verbot der Datenweitergabe und Bot-Nutzung<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verantwortungsvolles Spielen<\/h4>\n<ul><li>• Selbstkontroll-Tools und Aktivitätslimits<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Regelbefolgung<\/h4>\n<ul><li>• Konsequenzen bei Verstoß gegen Nutzungsbedingungen<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Lizenz und Datenschutz<\/h3>\n<p>Unser Casino operiert auf Basis einer internationalen Lizenz, die die Einhaltung strenger Fairness- und Sicherheitsstandards garantiert. Wir setzen moderne SSL-Verschlüsselungstechnologien ein, um alle zwischen Nutzer und Server übertragenen Daten zu schützen. Die Datenschutzrichtlinie regelt Erhebung, Speicherung und Nutzung personenbezogener Informationen ausschließlich zum Zweck der Dienstleistungserbringung. Wir geben Daten ohne Ihre Zustimmung nicht an Dritte weiter, außer in gesetzlich vorgesehenen Fällen. Regelmäßige Audits durch unabhängige Organisationen bestätigen die Fairness der Spielprozesse und die Funktion der Zufallsgeneratoren. Unser Team von Cybersicherheitsspezialisten überwacht das System kontinuierlich auf Schwachstellen und potenzielle Bedrohungen.<\/p>\n<br>\n<p>Wir legen besonderen Wert auf die Einhaltung von Datenschutzanforderungen und aktualisieren regelmäßig interne Sicherheitsverfahren. Jeder Schritt der Informationsverarbeitung unterliegt strenger Kontrolle zur Verhinderung unbefugten Zugriffs. Sie können sicher sein, dass Ihre Finanztransaktionen und persönlichen Informationen zuverlässig geschützt sind. Transparenz unserer Aktivitäten und Offenheit in Sicherheitsfragen schaffen das Vertrauen der Spieler in unsere Plattform.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Lizenzierung<\/h4>\n<ul><li>• Internationale Glücksspiellizenz mit strengen Auflagen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Datenverschlüsselung<\/h4>\n<ul><li>• SSL-Technologie für sichere Datenübertragung<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Datenschutzrichtlinie<\/h4>\n<ul><li>• Keine Weitergabe personenbezogener Daten an Dritte<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Unabhängige Audits<\/h4>\n<ul><li>• Regelmäßige Prüfungen der Spielintegrität<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Cybersicherheit<\/h4>\n<ul><li>• Kontinuierliche Systemüberwachung durch Experten<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Zahlungen und Finanztransaktionen<\/h3>\n<p>Wir bieten eine breite Auswahl an Ein- und Auszahlungsmethoden, damit jeder Spieler die bequemste Option wählen kann. Alle Finanztransaktionen sind durch ein mehrstufiges Sicherheitssystem geschützt, das Transaktionsverifizierung und Überwachung verdächtiger Aktivitäten umfasst. Einzahlungen werden sofort gutgeschrieben, sodass Sie sofort mit dem Spielen beginnen können. Die Bearbeitungszeiten für Auszahlungen hängen von der gewählten Methode ab, doch wir streben eine möglichst schnelle Genehmigung von Anfragen an. E-Wallets und Kryptowährungen ermöglichen die schnellsten Transfers, während Bankkarten zusätzliche Zeit erfordern können. Der Mindestauszahlungsbetrag beträgt 10€, was den Prozess für alle Spielerkategorien zugänglich macht. Maximale Limits liegen bei 500€ pro Tag und 7.000€ pro Monat für Standardkonten, mit Erhöhungsmöglichkeit für Loyalty-Programm-Teilnehmer. Wir erheben keine Gebühren für die meisten Ein- und Auszahlungsmethoden und gewährleisten transparente Finanzbedingungen. Jede Transaktion wird auf Übereinstimmung mit Plattformregeln und Sicherheitsanforderungen geprüft. Unser Finanzteam arbeitet rund um die Uhr zur schnellen Lösung von Zahlungsfragen.<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #90DAFF;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Method<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Deposit speed<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Payout after approval<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-3 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Krypto<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 12 Stunden<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank Transfer<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-2 Tage<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">3-5 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Auszahlungslimits<\/h4>\n<ul><li>• Mindestauszahlung: 10€<\/li><li>• Maximale Auszahlung pro Tag: 500€<\/li><li>• Maximale Auszahlung pro Monat: 7.000€<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Kundensupport<\/h3>\n<p>Unser Support-Team arbeitet rund um die Uhr, damit Sie jederzeit Hilfe erhalten können. Wir bieten mehrere Kontaktmöglichkeiten: Live-Chat auf der Website, E-Mail und Telefonlinie zur schnellen Lösung von Fragen. Die durchschnittliche Antwortzeit im Chat beträgt weniger als zwei Minuten, was eine schnelle Beseitigung von Unannehmlichkeiten ermöglicht. Unsere Mitarbeiter durchlaufen regelmäßige Schulungen und verfügen über fundierte Kenntnisse zu Plattform, Spielen und Finanztransaktionen. Der Support ist in zahlreichen Sprachen verfügbar, darunter Deutsch, Englisch, Russisch und weitere, damit sich jeder Spieler wohlfühlt. Wir streben einen personalisierten Ansatz an und berücksichtigen den Verlauf früherer Anfragen zur effektiveren Problemlösung. Bei komplexen Fragen leiten wir die Anfrage an Senior-Spezialisten oder die technische Abteilung weiter. Unser Ziel ist nicht nur die Beantwortung einer Frage, sondern die vollständige Zufriedenstellung des Spielers. Sie können sich zu allen Themen wenden: von technischen Störungen bis zur Klärung von Bonusbedingungen. Wir schätzen Feedback und verbessern kontinuierlich die Servicequalität basierend auf Nutzerbewertungen. Unser Support-Team ist der erste Schritt zur Schaffung einer positiven Interaktion mit der Plattform.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Kontaktmöglichkeiten<\/h4>\n<ul><li>• Live-Chat, E-Mail, Telefonlinie<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Antwortzeiten<\/h4>\n<ul><li>• Unter 2 Minuten im Chat, bis 24 Stunden per E-Mail<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verfügbare Sprachen<\/h4>\n<ul><li>• Deutsch, Englisch, Russisch, Französisch, Spanisch und weitere<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Qualifikation<\/h4>\n<ul><li>• Regelmäßige Schulungen und Plattform-Expertise<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Personalisierung<\/h4>\n<ul><li>• Berücksichtigung des Anfrageverlaufs für effiziente Lösungen<\/li><\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Unterhaltung und Gaming im AlFCasino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Loyalty-Programm<\/h3>\n<p>Unser Loyalty-Programm wurde entwickelt, um treue Spieler zu belohnen und exklusive Privilegien zu bieten. Die Registrierung im Programm erfolgt automatisch bei Kontoerstellung, ohne zusätzliche Schritte. Das System umfasst mehrere Stufen: von der Startstufe Bronze bis zur Premium-Stufe Diamond, wobei jede neue Möglichkeiten eröffnet. Der Fortschritt durch die Stufen wird durch die Summe der getätigten Einsätze bestimmt: Je mehr Sie spielen, desto höher steigen Sie im Ranking. Programmteilnehmer erhalten einen persönlichen Manager, beschleunigte Auszahlungsbearbeitung und Zugang zu exklusiven Turnieren. Boni werden als Cashback bis zu 25%, Freispiele und exklusive Promo-Angebote gutgeschrieben. Auf höheren Stufen sind erhöhte Auszahlungslimits und spezielle Feiertagsgeschenke verfügbar. Die Teilnahmebedingungen sind transparent: Sie sehen jederzeit Ihren aktuellen Status und Fortschritt zur nächsten Stufe im persönlichen Bereich. Das Programm hat keine Ablaufzeit – Ihr Status bleibt bei regelmäßiger Aktivität erhalten. Wir aktualisieren regelmäßig die Programmvorteile und fügen neue Boni und Privilegien für unsere treuesten Spieler hinzu.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Registrierung<\/h4>\n<ul><li>• Automatisch bei Kontoerstellung<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Programmstufen<\/h4>\n<ul><li>• Bronze, Silver, Gold, Platinum, Diamond<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Fortschritt<\/h4>\n<ul><li>• Bestimmt durch monatliche Gesamtsumme der Einsätze<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Cashback-Boni<\/h4>\n<ul><li>• 5% am Start bis 25% auf Premium-Stufen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Freispiele<\/h4>\n<ul><li>• Wöchentliche Pakete von 10 bis 100 Drehungen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Persönlicher Manager<\/h4>\n<ul><li>• Verfügbar ab Gold-Stufe<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Beschleunigte Auszahlungen<\/h4>\n<ul><li>• Prioritäre Bearbeitung von Anfragen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Erhöhte Limits<\/h4>\n<ul><li>• Bis zu 2.000€ pro Tag auf höchsten Stufen<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Boni und Sonderangebote<\/h3>\n<p>Wir starten regelmäßig vielfältige Boni und Aktionen, um das Spielerlebnis noch spannender und attraktiver zu gestalten. Das Willkommenspaket für neue Spieler umfasst einen Bonus auf die erste Einzahlung bis zu 500€ und ein Paket kostenloser Drehungen für beliebte Slots. Wöchentliche Reload-Boni ermöglichen zusätzliches Guthaben auf dem Konto mit minimalen Umsatzbedingungen. Das Cashback-Programm erstattet bis zu 25% der verlorenen Mittel und bietet Unterstützung auch in weniger erfolgreichen Phasen. Saisonale Veranstaltungen zu Feiertagen bieten exklusive Preise, darunter Gadgets, Reisen und Geldpreise. Turniere mit Preisgeldern bis zu 10.000€ finden wöchentlich statt und umfassen verschiedene Spielkategorien. Sonderangebote für Mobile-Spieler beinhalten exklusive Freispiele und beschleunigte Boni. Wir veranstalten auch Verlosungen unter aktiven Teilnehmern, bei denen reale Werte ohne zusätzliche Bedingungen gewonnen werden können. Alle Aktionen werden von klaren Regeln und transparenten Bedingungen begleitet, die jederzeit im entsprechenden Bereich einsehbar sind. Unser Marketing-Team entwickelt ständig neue Belohnungsformate basierend auf den Vorlieben der Spieler.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Willkommensbonus<\/h4>\n<ul><li>• 100% bis 500€ + 100 Freispiele<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Wöchentlicher Bonus<\/h4>\n<ul><li>• 50% bis 200€ mit 30x Umsatzbedingung<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Cashback<\/h4>\n<ul><li>• Erstattung bis 25% der Nettoverluste<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Turniere<\/h4>\n<ul><li>• Preisgelder von 1.000€ bis 10.000€<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Saisonale Aktionen<\/h4>\n<ul><li>• Exklusive Preise und Geldgewinne<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Mobile-Boni<\/h4>\n<ul><li>• Exklusive Freispiele für Mobile-Spieler<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verlosungen<\/h4>\n<ul><li>• Chance auf reale Preise ohne Einzahlung<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Spiel- und Wettangebot<\/h3>\n<p>Unser Casino bietet eine umfangreiche Unterhaltungskollektion, entwickelt in Partnerschaft mit führenden globalen Anbietern von Gaming-Content. Die Bibliothek umfasst über 3.000 Slots mit verschiedenen Mechaniken, Themen und Volatilitätsstufen, von klassischen Fruchtautomaten bis zu modernen Video-Slots mit Bonusrunden. Tischspiele werden durch zahlreiche Varianten von Roulette, Blackjack, Baccarat und Poker repräsentiert, bei denen Sie den passenden Spielstil und Einsatzlevel wählen können. Der Live-Casino-Bereich schafft die Atmosphäre eines echten Spielhauses dank Übertragungen mit realen Dealern in hoher Qualität. Wir bieten auch Wetten auf virtuellen Sport, E-Sport-Events und Crash-Games für Liebhaber dynamischen Gameplays. Jedes Spiel wird auf Fairness zertifiziert und verwendet geprüfte Zufallszahlengeneratoren. Regelmäßige Content-Updates garantieren das Erscheinen neuer Titel von Anbietern wie NetEnt, Pragmatic Play, Evolution Gaming und anderen. Die Filterung nach Anbietern, Popularität und Neuerscheinungen vereinfacht die Suche nach der perfekten Unterhaltung. Der Demo-Modus ist für die meisten Spiele verfügbar und ermöglicht das Kennenlernen der Mechanik ohne Risiko mit echtem Geld. Wir erweitern unser Sortiment ständig unter Berücksichtigung der Vorlieben und des Feedbacks unserer Spieler.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Slots<\/h4>\n<ul><li>• Über 3.000 Spiele mit verschiedenen Themen und Mechaniken<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Tischspiele<\/h4>\n<ul><li>• Roulette, Blackjack, Baccarat, Poker in zahlreichen Varianten<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Live-Casino<\/h4>\n<ul><li>• Übertragungen mit realen Dealern in HD-Qualität<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Virtueller Sport<\/h4>\n<ul><li>• Wetten auf simulierte Sportereignisse<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">E-Sport<\/h4>\n<ul><li>• Wettmöglichkeiten auf beliebte Disziplinen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Crash-Games<\/h4>\n<ul><li>• Dynamische Spiele mit sofortigen Ergebnissen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Demo-Modus<\/h4>\n<ul><li>• Kostenloses Spielen ohne Risiko für die meisten Slots<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Einsatzlimits<\/h3>\n<p>Wir bieten flexible Bedingungen für Spieler mit unterschiedlichem Budget und einen breiten Bereich minimaler und maximaler Einsätze. Unsere Limits wurden unter Berücksichtigung des Komforts sowohl für Neulinge als auch für erfahrene Spieler entwickelt, um Risiken zu kontrollieren und das Bankroll-Management zu ermöglichen. Alle Einsätze werden in Euro angezeigt, was Transparenz bei Finanztransaktionen für unsere Nutzer gewährleistet.<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #90DAFF;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Game Type<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Min Bet<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #181436; font-weight: bold;\">Max Bet<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">100€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,50€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1,00€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">2.500€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1,00€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">3.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live Dealer<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,50€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">10.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtual Sports<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,20€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">500€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash Games<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">200€<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">AlfCasino: Turniere und Leaderboards<\/h3>\n<p>Die Teilnahme an unseren Turnieren steht allen registrierten Spielern offen und erfordert keine zusätzlichen Gebühren. Punkte werden automatisch basierend auf getätigten Einsätzen gutgeschrieben: Jeder Einsatz von 1€ bringt eine bestimmte Punktzahl je nach Spieltyp. Bei Slots wird die Gesamtsumme der Einsätze berücksichtigt, bei Tischspielen die Anzahl gespielter Hände und im Live-Casino die am Tisch verbrachte Zeit. Das Leaderboard wird in Echtzeit aktualisiert und ermöglicht es, Ihre Position und den Fortschritt der Konkurrenten zu verfolgen. Preise werden unter den Top-Teilnehmern nach Turnierende verteilt und automatisch dem Konto gutgeschrieben. Sie können gleichzeitig an mehreren Turnieren teilnehmen und so Ihre Gewinnchancen maximieren. Spezielle Bonuspunkte werden für Gewinnserien und große Siege gutgeschrieben, was ein strategisches Element hinzufügt. Wir veranstalten tägliche, wöchentliche und monatliche Turniere mit unterschiedlichen Preisgeldern.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Registrierung<\/h4>\n<ul><li>• Automatisch für alle Spieler<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Punktevergabe<\/h4>\n<ul><li>• 1€ Einsatz = 1 Punkt (Slots), 1 Hand = 2 Punkte (Tischspiele)<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Leaderboard-Update<\/h4>\n<ul><li>• In Echtzeit<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Preisausschüttung<\/h4>\n<ul><li>• Automatische Gutschrift nach Turnierende<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Multi-Teilnahme<\/h4>\n<ul><li>• Gleichzeitige Teilnahme an mehreren Turnieren möglich<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonuspunkte<\/h4>\n<ul><li>• Für Gewinnserien und große Siege<\/li><\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie lange dauert die Kontoverifizierung?",
+                            "answer": "Die Dokumentenprüfung dauert in der Regel 1 bis 24 Stunden, abhängig von der Auslastung des Sicherheitsteams."
+                        },
+                        {
+                            "title": "Wie kann eine Auszahlungsanfrage storniert werden?",
+                            "answer": "Eine Stornierung ist nur vor Genehmigung der Anfrage im Bereich \"Transaktionsverlauf\" im persönlichen Bereich möglich.\n"
+                        },
+                        {
+                            "title": "Stellen Sie Dokumente für Steuerzwecke bereit?",
+                            "answer": "Auf Anfrage können wir Transaktionsverläufe und Auszüge für steuerliche Berichtspflichten bereitstellen.\n"
+                        },
+                        {
+                            "title": "Kann im Demo-Modus ohne Registrierung gespielt werden?",
+                            "answer": "Die meisten Spiele sind im Demo-Modus ohne Registrierung verfügbar, für Turnierteilnahme und Boni ist jedoch ein Konto erforderlich.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
